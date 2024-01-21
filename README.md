@@ -63,4 +63,4 @@ Software and Technology:
 
 Team Members:- \
 ● Sagar Santoshkumar Shukla - Model ,Frontend , backend\
-● Chandresh Tulsidas Menon - Deployment,Frontend, backend\
+● Chandresh Tulsidas Menon - Deployment,Frontend, backend
