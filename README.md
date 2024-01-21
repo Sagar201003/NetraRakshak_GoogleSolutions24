@@ -1,5 +1,9 @@
 # NetraRakshak_GoogleSolutions24
 
+FLowchart :- \ 
+![googlesolutions_flowchart](https://github.com/Sagar201003/NetraRakshak_GoogleSolutions24/assets/111193758/5ecafbea-6395-48fb-95d1-bdb3b567510c)
+
+
 Solution:
 1. Suspicious activity detection:
    ● It will detect anomalies like Abuse , Assault , Arrestrunning, jumping, and crawling by analyzing the motion
@@ -65,5 +69,4 @@ Team Members:- \
 ● Sagar Santoshkumar Shukla - Model ,Frontend , backend\
 ● Chandresh Tulsidas Menon - Deployment,Frontend, backend
 
-![googlesolutions_flowchart](https://github.com/Sagar201003/NetraRakshak_GoogleSolutions24/assets/111193758/98ab9ac1-b085-410e-bfcc-ecb8ac1bfe5a)
 
