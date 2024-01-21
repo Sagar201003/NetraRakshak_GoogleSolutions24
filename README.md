@@ -7,7 +7,7 @@ FLowchart :-
 
 Solution:
 1. Suspicious activity detection:
-   ● It will detect anomalies like Abuse , Assault , Arrestrunning, jumping, and crawling by analyzing the motion
+   ● It will detect anomalies like Abuse,Assault,Arrest,Arson,Burglary,Explosion,Fighting and many more by analyzing the motion
    patterns of tracked humans. We will keep a track of all the objects using Deep sort.
 
 2. Multiple video panels:
@@ -23,8 +23,9 @@ Solution:
 5. Automatic number plate recognition system:
    ● We can add a number plate recognition system to our project , which may help
    officials to keep a track on the vehicles of the criminals.
+   
 6. Custom dataset:
-   ● We can train our model on a custom dataset . given the dataset is relevant to the
+   ● We can train our model on a custom dataset, given the dataset is relevant to the
    topic . This makes our model flexible for users .
 
 7. Interdisciplinary Approach:
@@ -34,6 +35,7 @@ Solution:
 8. User Interface :
    ● Simple and User-friendly website . The dashboard will display the multiple real-time
    input videos.
+   
 9. History of incidents:
    ● We will create a database that will have all the past incidents .This will help the
    Police department to keep a track of all the incidents . It will include the date,time ,
