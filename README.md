@@ -1,6 +1,7 @@
 # NetraRakshak_GoogleSolutions24
 
-FLowchart :- \ 
+FLowchart :- 
+
 ![googlesolutions_flowchart](https://github.com/Sagar201003/NetraRakshak_GoogleSolutions24/assets/111193758/5ecafbea-6395-48fb-95d1-bdb3b567510c)
 
 
