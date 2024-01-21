@@ -64,3 +64,6 @@ Software and Technology:
 Team Members:- \
 ● Sagar Santoshkumar Shukla - Model ,Frontend , backend\
 ● Chandresh Tulsidas Menon - Deployment,Frontend, backend
+
+![googlesolutions_flowchart](https://github.com/Sagar201003/NetraRakshak_GoogleSolutions24/assets/111193758/98ab9ac1-b085-410e-bfcc-ecb8ac1bfe5a)
+
